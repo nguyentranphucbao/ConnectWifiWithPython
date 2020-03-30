@@ -1,3 +1,0 @@
-show:netsh wlan show profile
-add:netsh wlan add profile filename="{path}" user = "{user}"
-delete:del /F "{path}"
